@@ -1,6 +1,6 @@
 ![猫盾 Maodun 社交预览](assets/social-preview.png)
 
-# 猫盾 Maodun 5.0：Windows AI Agent 规范监视器
+# 猫盾 Maodun 6.0：Windows AI Agent 规范监视器
 
 猫盾是一款面向 Windows 的 AI Agent 规范监视器。它帮助发现本机运行的 AI Agent、工作流与知识库，记录行为、管理授权，并对高风险操作执行分级处置。软件免费使用，闭源发布。
 
@@ -10,7 +10,7 @@
 
 ## 下载
 
-- [下载猫盾 5.0 安装包](https://github.com/puhuiai/maodun/releases/download/v5.0.0/Maodun5.0_Setup.exe)
+- [下载猫盾 6.0 安装包](https://github.com/puhuiai/maodun/releases/download/v6.0.0/maodun-setup-v6.0.0.exe)
 - [查看全部 Releases](https://github.com/puhuiai/maodun/releases)
 - [产品中心](https://puhuiai.github.io/website/#maodun)
 
@@ -25,7 +25,7 @@
 
 ## 安装
 
-1. 下载 `Maodun5.0_Setup.exe`
+1. 下载 `maodun-setup-v6.0.0.exe`
 2. 双击安装，如被安全软件拦截请核验文件来源后加入信任
 3. 首次启动时配置监控目录与授权范围
 
